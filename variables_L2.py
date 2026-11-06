@@ -1,0 +1,3 @@
+name = "Antik"
+
+print(name)
